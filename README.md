@@ -19,7 +19,7 @@ A cutting-edge multimedia gaming web experience built using **React**, **Tailwin
 
 ## 🌐 Live Demo
 
-🔗 [https://redefine-gaming.vercel.app/](https://redefine-gaming.vercel.app/) <!-- Replace with your actual URL -->
+🔗 https://gamingwebsite-chi.vercel.app/ <!-- Replace with your actual URL -->
 
 ---
 
